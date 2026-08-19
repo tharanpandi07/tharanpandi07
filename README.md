@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm P. Tharan
 
-<!--
-**tharanpandi07/tharanpandi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+I'm an aspiring software developer passionate about building modern, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working With
+
+- Languages: Java
+- Frontend: React.js, Tailwind CSS
+- Backend: Spring Boot, REST APIs
+- Databases: MySQL
+- Tools: Git, GitHub, VS Code
+
+📌 Featured Projects
+
+🚗 Car Rental System
+Full-stack car rental platform 
+
+🤖 AI Resume Analyzer
+Web application designed to analyze resumes and provide useful insights for job seekers.
+
+🏋️ Gym Management System
+Management system for handling gym members, plans and related operations.
+
+🎯 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Java
+- Full Stack Development
+- Software Development Best Practices
+
+📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tharan04?
+- 🌐 Portfolio: https://portfolio-chi-virid-15.vercel.app/
+- 📧 Email: tharanpandi07@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects!
