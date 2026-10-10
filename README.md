@@ -17,11 +17,6 @@ I'm an aspiring software developer passionate about building modern, scalable, a
 🚗 Car Rental System
 Full-stack car rental platform 
 
-🤖 AI Resume Analyzer
-Web application designed to analyze resumes and provide useful insights for job seekers.
-
-🏋️ Gym Management System
-Management system for handling gym members, plans and related operations.
 
 🎯 Currently Learning
 
