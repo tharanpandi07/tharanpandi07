@@ -4,26 +4,32 @@
 
 I'm an aspiring software developer passionate about building modern, scalable, and user-friendly web applications.
 
-🚀 What I'm Working With
+📌 Projects
 
-- Languages: Java
+- 🚗 Car Rental System 
+- Full-stack car rental platform built with React.js, Spring Boot, and MySQL.
+- 
+- 🎓 Smart Talent Show & Management System
+- A smart platform for talent-based event recommendations and team formation.
+- 
+- 🩸 Blood Bank Management System
+-  A system to manage blood donor details, blood stock, and blood requests efficiently.
+
+🚀 Tech Stack
+
+- Languages: Java, JavaScript
 - Frontend: React.js, Tailwind CSS
 - Backend: Spring Boot, REST APIs
-- Databases: MySQL
+- Database: MySQL
 - Tools: Git, GitHub, VS Code
 
-📌 Featured Projects
+📚 Currently Learning
 
-🚗 Car Rental System
-Full-stack car rental platform 
+- Data Structures and Algorithms (Java)
+- Advanced React.js
+- Spring Boot and REST API development
+- Full-stack application development
 
-
-🎯 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Java
-- Full Stack Development
-- Software Development Best Practices
 
 📫 Connect With Me
 
