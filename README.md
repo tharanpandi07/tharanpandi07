@@ -11,7 +11,7 @@ I'm an aspiring software developer passionate about building modern, scalable, a
 - A modern, cinematic coffee shop website built with React.js and Vite, featuring immersive video backgrounds, smooth
   animations, interactive navigation, a coffee menu, gallery, and responsive design.
 🔗 Live Demo :https://coffee-shop-website-swart-one.vercel.app/
-💻 Source Code:/coffee-shop-website
+💻 Source Code:https://github.com/tharanpandi07/coffee-shop-website
 -
 - 🚗 Car Rental System 
 - Full-stack car rental platform built with React.js, Spring Boot, and MySQL.
