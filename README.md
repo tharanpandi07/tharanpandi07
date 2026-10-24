@@ -12,8 +12,7 @@ I'm an aspiring software developer passionate about building modern, scalable, a
   animations, interactive navigation, a coffee menu, gallery, and responsive design.
 🔗 Live Demo :https://coffee-shop-website-swart-one.vercel.app/
 💻 Source Code:
-
-
+-
 - 🚗 Car Rental System 
 - Full-stack car rental platform built with React.js, Spring Boot, and MySQL.
 - 
